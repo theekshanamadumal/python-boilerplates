@@ -1,0 +1,3 @@
+[2025.03.14] Completed inventory agent and connection with the notification agent (with one tool to print the notification) 
+[2025.03.17] Updated the flow of the entire process, and fixed notifications for restock_orders too.
+
