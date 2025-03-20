@@ -1,1 +1,9 @@
-- Start report generation part(keep root cause analysis)
+Workitems Backlog:
+=====================
+
+IN-PROGRESS
+- create frontend components
+--------------------------------------------------------------
+
+TO-DO
+- connect to backend

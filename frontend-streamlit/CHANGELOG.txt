@@ -1,2 +1,5 @@
-# 2024-12-17 created frontend-gradio and moved app.py
-# 2025-03-06 - [Theekshana] - Download extracted markdown, UI color eme
+Version 0.0.1
+    - 2025-03-06 - [Theekshana] -  created frontend-streamlit and app.py
+    - 2025-03-06 - [Theekshana] -  created bar plots
+    
+Version 0.0.2
